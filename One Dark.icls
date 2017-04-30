@@ -1238,7 +1238,13 @@
     </option>
     <option name="PHP_HEREDOC_ID">
       <value>
+        <option name="FOREGROUND" value="d09a66" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
@@ -1261,9 +1267,14 @@
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="2a2d32" />
+        <option name="FOREGROUND" value="81c279" />
       </value>
     </option>
     <option name="PHP_STRING">
@@ -1278,7 +1289,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="PROTOCOL_REFERENCE">
